@@ -1,3 +1,6 @@
 # E-Learning-Analysis-
-Jessyali555@yahoo.com
-Beshoy.Ayad@gmail.com
+## supervisor 
+### Dr. Amal Mahmoud
+## By
+### Jessyali555@yahoo.com
+### Beshoy.Ayad@gmail.com
