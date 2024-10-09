@@ -6,7 +6,7 @@
 
 ---
 
-## By
+## SQL By
 
 ### Jessyali555@yahoo.com
 
