@@ -37,3 +37,5 @@ This project analyzes the E-learning market, identifying patterns and insights u
 ## Dataset source
 
 - **Link** : https://analyse.kmi.open.ac.uk/open_dataset#description
+
+- **Presentation** : https://github.com/Beshoy-Ayad/E-Learning-Analysis-/tree/main/Presentation/E-Learning data analysis project1.pptx
