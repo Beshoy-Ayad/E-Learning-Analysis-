@@ -2,7 +2,7 @@
 
 ## supervisor
 
-- ** Dr. Amal Mahmoud **
+- ## Dr. Amal Mahmoud
 
 ---
 
